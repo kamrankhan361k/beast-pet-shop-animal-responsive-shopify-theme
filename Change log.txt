@@ -1,0 +1,14 @@
+Date: 24.01.2023
+Version: 1.0.2
+===================
+- Update Online Store 2.0
+- Added: Storefront filtering (Updated & Powerful filter)
+- Added: Product Countdown by Metafields
+- Added: Predictive Search.
+- Added: Product Media.
+
+
+
+
+
+

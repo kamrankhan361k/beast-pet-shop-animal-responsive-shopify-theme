@@ -1,0 +1,1048 @@
+{
+  "sections": {
+    "1633582665d480efa2": {
+      "type": "slider",
+      "blocks": {
+        "1633582665d480efa2-0": {
+          "type": "slide",
+          "settings": {
+            "content_position": "Left",
+            "content_align": "left",
+            "content_animation": "fadeInRight",
+            "slider_content_col": "8",
+            "slider_content_col_md": "7",
+            "slider_img_enable": false,
+            "slider_img_col": "12",
+            "slider_img_col_md": "5",
+            "slider_bg_img": "shopify:\/\/shop_images\/slider_1.jpg",
+            "slider_content_custom_style": true,
+            "sec_bg_color": "#effafa",
+            "title_top": "African Jingons",
+            "header_top_color": "#333333",
+            "header_font_top": "poppins_i5",
+            "header_font_top_size": "20",
+            "header_font_top_line_height": 25,
+            "header_font_top_margin_bottom": 13,
+            "title1": "The <span>Dog<\/span><br> & Parrote",
+            "title1_color": "#333333",
+            "header_font_slider": "poppins_n7",
+            "title1_font_size": "100",
+            "heading_line_height": 110,
+            "title_margin_bottom": 20,
+            "heading_bottom_border_line": false,
+            "heading_border_bottom_color": "#333333",
+            "border_top_spacing": 20,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "description_color": "#333333",
+            "paragraph_font_slider": "poppins_n4",
+            "description_font_size": "15",
+            "des_line_height": 24,
+            "des_margin_bottom": 0,
+            "btn": "SHOP NOW",
+            "show_icon": true,
+            "btn_url": "shopify:\/\/collections\/all",
+            "button_font_slider": "poppins_n4",
+            "button_margin_top": 35,
+            "btn_border_radius": 50,
+            "button_padding_tb": 15,
+            "button_padding_lr": 30,
+            "btn_font_size": "15",
+            "btn_color": "#ffffff",
+            "btn_bg_color": "#f78263",
+            "btn_border_color": "#f78263",
+            "btn_hover_color": "#f78263",
+            "btn_hover_bg_color": "rgba(0,0,0,0)",
+            "btn_hover_border_color": "#f78263",
+            "show_animated_btn": false,
+            "btn_animated": "View Video",
+            "animaet_btn_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "animate_button_font": "poppins_n4",
+            "animate_btn_font_size": "20",
+            "animate_btn_size": 65,
+            "animated_btn_color": "#222222"
+          }
+        },
+        "e44b7a82-5a35-4afd-b85b-abb7e93a3fe2": {
+          "type": "slide",
+          "settings": {
+            "content_position": "center",
+            "content_align": "center",
+            "content_animation": "fadeInRight",
+            "slider_content_col": "8",
+            "slider_content_col_md": "7",
+            "slider_img_enable": false,
+            "slider_img_col": "12",
+            "slider_img_col_md": "5",
+            "slider_bg_img": "shopify:\/\/shop_images\/full_slider_11.jpg",
+            "slider_content_custom_style": true,
+            "sec_bg_color": "#effafa",
+            "title_top": "African Jingons",
+            "header_top_color": "#333333",
+            "header_font_top": "poppins_i5",
+            "header_font_top_size": "20",
+            "header_font_top_line_height": 25,
+            "header_font_top_margin_bottom": 13,
+            "title1": "The <span>Dog<\/span><br> & Parrote",
+            "title1_color": "#333333",
+            "header_font_slider": "poppins_n7",
+            "title1_font_size": "100",
+            "heading_line_height": 110,
+            "title_margin_bottom": 20,
+            "heading_bottom_border_line": false,
+            "heading_border_bottom_color": "#333333",
+            "border_top_spacing": 20,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "description_color": "#333333",
+            "paragraph_font_slider": "poppins_n4",
+            "description_font_size": "15",
+            "des_line_height": 24,
+            "des_margin_bottom": 0,
+            "btn": "SHOP NOW",
+            "show_icon": true,
+            "btn_url": "shopify:\/\/collections\/all",
+            "button_font_slider": "poppins_n4",
+            "button_margin_top": 35,
+            "btn_border_radius": 50,
+            "button_padding_tb": 15,
+            "button_padding_lr": 30,
+            "btn_font_size": "15",
+            "btn_color": "#ffffff",
+            "btn_bg_color": "#f78263",
+            "btn_border_color": "#f78263",
+            "btn_hover_color": "#f78263",
+            "btn_hover_bg_color": "rgba(0,0,0,0)",
+            "btn_hover_border_color": "#f78263",
+            "show_animated_btn": false,
+            "btn_animated": "View Video",
+            "animaet_btn_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "animate_button_font": "poppins_n4",
+            "animate_btn_font_size": "20",
+            "animate_btn_size": 65,
+            "animated_btn_color": "#222222"
+          }
+        },
+        "1633582665d480efa2-1": {
+          "type": "slide",
+          "settings": {
+            "content_position": "Left",
+            "content_align": "left",
+            "content_animation": "fadeInRight",
+            "slider_content_col": "8",
+            "slider_content_col_md": "7",
+            "slider_img_enable": false,
+            "slider_img_col": "12",
+            "slider_img_col_md": "5",
+            "slider_bg_img": "shopify:\/\/shop_images\/full_slider_10.jpg",
+            "slider_content_custom_style": true,
+            "sec_bg_color": "#effafa",
+            "title_top": "African Jingons",
+            "header_top_color": "#333333",
+            "header_font_top": "poppins_i5",
+            "header_font_top_size": "20",
+            "header_font_top_line_height": 25,
+            "header_font_top_margin_bottom": 13,
+            "title1": "The <span>Dog<\/span><br> & Parrote",
+            "title1_color": "#333333",
+            "header_font_slider": "poppins_n7",
+            "title1_font_size": "100",
+            "heading_line_height": 110,
+            "title_margin_bottom": 20,
+            "heading_bottom_border_line": false,
+            "heading_border_bottom_color": "#333333",
+            "border_top_spacing": 20,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "description_color": "#333333",
+            "paragraph_font_slider": "poppins_n4",
+            "description_font_size": "15",
+            "des_line_height": 24,
+            "des_margin_bottom": 0,
+            "btn": "SHOP NOW",
+            "show_icon": true,
+            "btn_url": "shopify:\/\/collections\/all",
+            "button_font_slider": "poppins_n4",
+            "button_margin_top": 35,
+            "btn_border_radius": 50,
+            "button_padding_tb": 15,
+            "button_padding_lr": 30,
+            "btn_font_size": "15",
+            "btn_color": "#ffffff",
+            "btn_bg_color": "#f78263",
+            "btn_border_color": "#f78263",
+            "btn_hover_color": "#f78263",
+            "btn_hover_bg_color": "rgba(0,0,0,0)",
+            "btn_hover_border_color": "#f78263",
+            "show_animated_btn": false,
+            "btn_animated": "View Video",
+            "animaet_btn_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "animate_button_font": "poppins_n4",
+            "animate_btn_font_size": "20",
+            "animate_btn_size": 65,
+            "animated_btn_color": "#222222"
+          }
+        }
+      },
+      "block_order": [
+        "1633582665d480efa2-0",
+        "e44b7a82-5a35-4afd-b85b-abb7e93a3fe2",
+        "1633582665d480efa2-1"
+      ],
+      "settings": {
+        "section_width": "default",
+        "content_width": "default",
+        "slider_height_opt": "fixed_height",
+        "enable_responsive_style_2": true,
+        "p_top": "900",
+        "enable_custom_res_height": true,
+        "slider_height_1366": 700,
+        "slider_height_1170": 700,
+        "slider_height_991": 750,
+        "slider_height_767": 700,
+        "slider_height_575": 700,
+        "nav_style": "style_1",
+        "nav_custom_style": true,
+        "nav_border_radius": 30,
+        "controlnav_color": "#333333",
+        "controlnav_bg_color": "#f1f1f1",
+        "controlnav_border_color": "#f1f1f1",
+        "hover_controlnav_color": "#ffffff",
+        "hover_controlnav_bg_color": "#f78263",
+        "hover_controlnav_border_color": "#f78263",
+        "dot_style": "dot_bottom",
+        "dot_custom_style": true,
+        "dot_color": "#f78263",
+        "dot_active_color": "#f78263"
+      }
+    },
+    "1645604654016f2c1d": {
+      "type": "best-collection",
+      "blocks": {
+        "16456046544d99ab6d-0": {
+          "type": "collection",
+          "settings": {
+            "content_align": "text-left",
+            "service_icon": "",
+            "icon_font_size": "30",
+            "img1": "shopify:\/\/shop_images\/8.png",
+            "t1": "In-Ears",
+            "t2": "Super Collections",
+            "btn1_url": "shopify:\/\/collections\/all",
+            "banner_custom_color": false,
+            "bg_color": "#f1f1f1",
+            "ft_icon_color": "#ff6162",
+            "t1_color": "#1f2226",
+            "t1_color_hover": "#ff6162",
+            "t2_color": "#1f2226"
+          }
+        },
+        "16456046544d99ab6d-1": {
+          "type": "collection",
+          "settings": {
+            "content_align": "text-left",
+            "service_icon": "",
+            "icon_font_size": "30",
+            "img1": "shopify:\/\/shop_images\/5.png",
+            "t1": "Saniti",
+            "t2": "Special Collections",
+            "btn1_url": "shopify:\/\/collections\/all",
+            "banner_custom_color": false,
+            "bg_color": "#faf4eb",
+            "ft_icon_color": "#ff6162",
+            "t1_color": "#1f2226",
+            "t1_color_hover": "#ff6162",
+            "t2_color": "#1f2226"
+          }
+        },
+        "7f9055df-5682-49fe-881b-2f719bb02afc": {
+          "type": "collection",
+          "settings": {
+            "content_align": "text-left",
+            "service_icon": "",
+            "icon_font_size": "30",
+            "img1": "shopify:\/\/shop_images\/4.png",
+            "t1": "Earbuds",
+            "t2": "Suprme Collections",
+            "btn1_url": "shopify:\/\/collections\/all",
+            "banner_custom_color": false,
+            "bg_color": "#e6f2f4",
+            "ft_icon_color": "#ff6162",
+            "t1_color": "#1f2226",
+            "t1_color_hover": "#ff6162",
+            "t2_color": "#1f2226"
+          }
+        },
+        "e3b6cdbd-b4e6-4fd0-ab81-417f4d18e0bf": {
+          "type": "collection",
+          "settings": {
+            "content_align": "text-left",
+            "service_icon": "",
+            "icon_font_size": "30",
+            "img1": "shopify:\/\/shop_images\/3.png",
+            "t1": "Micro",
+            "t2": "Best Nides Mbond",
+            "btn1_url": "shopify:\/\/collections\/all",
+            "banner_custom_color": false,
+            "bg_color": "#f4e6e5",
+            "ft_icon_color": "#ff6162",
+            "t1_color": "#1f2226",
+            "t1_color_hover": "#ff6162",
+            "t2_color": "#1f2226"
+          }
+        },
+        "c191955e-3015-49cf-800b-cef2e7deac92": {
+          "type": "collection",
+          "settings": {
+            "content_align": "text-left",
+            "service_icon": "",
+            "icon_font_size": "30",
+            "img1": "shopify:\/\/shop_images\/2.png",
+            "t1": "Bio",
+            "t2": "Awesome Collections",
+            "btn1_url": "shopify:\/\/collections\/all",
+            "banner_custom_color": false,
+            "bg_color": "#f3fdec",
+            "ft_icon_color": "#ff6162",
+            "t1_color": "#1f2226",
+            "t1_color_hover": "#ff6162",
+            "t2_color": "#1f2226"
+          }
+        },
+        "de34c171-39d4-4e53-828c-3140afec70a7": {
+          "type": "collection",
+          "settings": {
+            "content_align": "text-left",
+            "service_icon": "",
+            "icon_font_size": "30",
+            "img1": "shopify:\/\/shop_images\/1.png",
+            "t1": "Quni",
+            "t2": "Special Collections",
+            "btn1_url": "shopify:\/\/collections\/all",
+            "banner_custom_color": false,
+            "bg_color": "#f5fdff",
+            "ft_icon_color": "#ff6162",
+            "t1_color": "#1f2226",
+            "t1_color_hover": "#ff6162",
+            "t2_color": "#1f2226"
+          }
+        },
+        "2aa6b24f-7f7c-42ea-90af-c6b49ef7ee0a": {
+          "type": "collection",
+          "settings": {
+            "content_align": "text-center",
+            "service_icon": "",
+            "icon_font_size": "30",
+            "img1": "shopify:\/\/shop_images\/8.png",
+            "t1": "Nisde",
+            "t2": "Lighting Black.",
+            "btn1_url": "shopify:\/\/collections\/all",
+            "banner_custom_color": false,
+            "bg_color": "#ffffff",
+            "ft_icon_color": "#757575",
+            "t1_color": "#1f2226",
+            "t1_color_hover": "#1f2226",
+            "t2_color": "#1f2226"
+          }
+        },
+        "47cd76f3-096f-4900-a32e-867f1b7d72f2": {
+          "type": "section_padding",
+          "settings": {
+            "section_padding_top": 50,
+            "section_padding_bottom": 0,
+            "section_padding_top_md": 40,
+            "section_padding_bottom_md": 0,
+            "section_padding_top_xs": 30,
+            "section_padding_bottom_xs": 0
+          }
+        }
+      },
+      "block_order": [
+        "16456046544d99ab6d-0",
+        "16456046544d99ab6d-1",
+        "7f9055df-5682-49fe-881b-2f719bb02afc",
+        "e3b6cdbd-b4e6-4fd0-ab81-417f4d18e0bf",
+        "c191955e-3015-49cf-800b-cef2e7deac92",
+        "de34c171-39d4-4e53-828c-3140afec70a7",
+        "2aa6b24f-7f7c-42ea-90af-c6b49ef7ee0a",
+        "47cd76f3-096f-4900-a32e-867f1b7d72f2"
+      ],
+      "settings": {
+        "section_width": "box_width",
+        "section_title_custom_color": true,
+        "border__style__enable": false,
+        "section_title": "",
+        "section_title_color": "#333333",
+        "section_title_font": "geometric_415_n6",
+        "section_title_font_size": "36",
+        "section_title_line_height": 50,
+        "section_title_font_size_md": "30",
+        "section_title_line_height_md": 45,
+        "section_title_font_size_sm": "24",
+        "section_title_line_height_sm": 40,
+        "section_title_margin_bottom": 10,
+        "section_sub_title": "",
+        "section_subtitle_color": "#5a5a5a",
+        "section_sub_title_font": "work_sans_n4",
+        "section_des_font_size": "16",
+        "section_sub_title_line_height": 30,
+        "section_des_font_size_md": "16",
+        "section_sub_title_line_height_md": 28,
+        "section_des_font_size_sm": "14",
+        "section_sub_title_line_height_sm": 24,
+        "section_sub_title_margin_bottom": 10,
+        "title_align": "text-center",
+        "tab_arsoule_active": true,
+        "tab_arsoule_arrow_enable": false,
+        "product_column_handle": "6",
+        "product_column_handle_md": "3",
+        "product_column_handle_sm": "2",
+        "img_border_radius": 0
+      }
+    },
+    "1658729060b4b7441f": {
+      "type": "banner",
+      "blocks": {
+        "165872906067c4df71-0": {
+          "type": "banner",
+          "settings": {
+            "product_column_handle": "4",
+            "product_column_handle_md": "4",
+            "product_column_handle_sm": "6",
+            "img1": "shopify:\/\/shop_images\/offer-3-2f8285b13bef950f843cb4147666af6e.png",
+            "t1": "",
+            "t2": "",
+            "btn1": "",
+            "btn1_url": "shopify:\/\/collections\/all",
+            "text1_p": "style_1",
+            "banner_custom_enable": false,
+            "t1_color": "#1f2226",
+            "t2_color": "#1f2226",
+            "btn1_color": "#1f2226",
+            "btn1_border_color": "#1f2226"
+          }
+        },
+        "165872906067c4df71-1": {
+          "type": "banner",
+          "settings": {
+            "product_column_handle": "4",
+            "product_column_handle_md": "4",
+            "product_column_handle_sm": "6",
+            "img1": "shopify:\/\/shop_images\/offer-2-90d3534e1ad62a8b8a977f1290e61e9f.png",
+            "t1": "",
+            "t2": "",
+            "btn1": "",
+            "btn1_url": "shopify:\/\/collections\/all",
+            "text1_p": "style_1",
+            "banner_custom_enable": false,
+            "t1_color": "#1f2226",
+            "t2_color": "#1f2226",
+            "btn1_color": "#1f2226",
+            "btn1_border_color": "#1f2226"
+          }
+        },
+        "6db0ed69-a0dd-4375-a70e-52dfb5cea3d3": {
+          "type": "banner",
+          "settings": {
+            "product_column_handle": "4",
+            "product_column_handle_md": "4",
+            "product_column_handle_sm": "6",
+            "img1": "shopify:\/\/shop_images\/offer-1-1f7a4c9ea0ba5a216bc7af1f60d044e0.png",
+            "t1": "",
+            "t2": "",
+            "btn1": "",
+            "btn1_url": "shopify:\/\/collections\/all",
+            "text1_p": "style_1",
+            "banner_custom_enable": false,
+            "t1_color": "#1f2226",
+            "t2_color": "#1f2226",
+            "btn1_color": "#1f2226",
+            "btn1_border_color": "#1f2226"
+          }
+        },
+        "6793eefe-d6f8-407e-ac9e-e6ee13c9bea6": {
+          "type": "section_padding",
+          "settings": {
+            "section_padding_top": 50,
+            "section_padding_bottom": 70,
+            "section_padding_top_md": 40,
+            "section_padding_bottom_md": 60,
+            "section_padding_top_xs": 30,
+            "section_padding_bottom_xs": 40
+          }
+        }
+      },
+      "block_order": [
+        "165872906067c4df71-0",
+        "165872906067c4df71-1",
+        "6db0ed69-a0dd-4375-a70e-52dfb5cea3d3",
+        "6793eefe-d6f8-407e-ac9e-e6ee13c9bea6"
+      ],
+      "settings": {
+        "section_width": "box_width",
+        "no_gutter_enable": false,
+        "tab_arsoule_active": false,
+        "carsoule_banner_col": 4,
+        "carsoule_banner_col_lg": 3,
+        "carsoule_banner_col_md": 2,
+        "carsoule_banner_col_sm": 1,
+        "tab_arsoule_arrow_enable": true,
+        "product_casoule_row": 1
+      }
+    },
+    "1645959322bded8804": {
+      "type": "featured-collection",
+      "blocks": {
+        "16459593227e2eedc4-0": {
+          "type": "section_padding",
+          "settings": {
+            "section_padding_top": 0,
+            "section_padding_bottom": 70,
+            "section_padding_top_md": 0,
+            "section_padding_bottom_md": 60,
+            "section_padding_top_xs": 0,
+            "section_padding_bottom_xs": 50
+          }
+        },
+        "16459593227e2eedc4-1": {
+          "type": "feature-product",
+          "settings": {
+            "feature_column_handle": 12,
+            "featured_product_handle": "hot-sale",
+            "tab_arsoule_active": true,
+            "tab_arsoule_arrow_enable": true,
+            "product_casoule_row": 1,
+            "product_column_handle": "6",
+            "product_column_handle_md": "4",
+            "product_column_handle_sm": "2",
+            "product_column_handle_sm_2": "2",
+            "product_column_handle_xs": "2",
+            "product_limit_handle": 8,
+            "button_title": "",
+            "button_url": "shopify:\/\/collections\/all"
+          }
+        },
+        "1d0abab9-4def-44af-8a24-758a7bf89c51": {
+          "type": "banner",
+          "disabled": true,
+          "settings": {
+            "banner_column_handle": 3,
+            "featured_banner_url": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "16459593227e2eedc4-0",
+        "16459593227e2eedc4-1",
+        "1d0abab9-4def-44af-8a24-758a7bf89c51"
+      ],
+      "settings": {
+        "section_width": "box_width",
+        "section_title_custom_color": true,
+        "section_title": "Featured Collections",
+        "section_title_color": "#333333",
+        "section_title_font": "open_sans_n6",
+        "section_title_font_size": "40",
+        "section_title_line_height": 50,
+        "section_title_font_size_md": "30",
+        "section_title_line_height_md": 45,
+        "section_title_font_size_sm": "24",
+        "section_title_line_height_sm": 40,
+        "section_title_margin_bottom": 15,
+        "section_sub_title": "Contrary to popular belief, Lorem Ipsum is not simply random.",
+        "section_subtitle_color": "#5a5a5a",
+        "section_sub_title_font": "work_sans_n4",
+        "section_des_font_size": "18",
+        "section_sub_title_line_height": 30,
+        "section_des_font_size_md": "16",
+        "section_sub_title_line_height_md": 28,
+        "section_des_font_size_sm": "14",
+        "section_sub_title_line_height_sm": 24,
+        "section_sub_title_margin_bottom": 10,
+        "title_align": "text-center"
+      }
+    },
+    "16346434438d9576a7": {
+      "type": "promotion-banner",
+      "blocks": {
+        "16346434438d9576a7-0": {
+          "type": "section_padding",
+          "settings": {
+            "section_padding_top": 50,
+            "section_padding_bottom": 120,
+            "section_padding_top_md": 50,
+            "section_padding_bottom_md": 100,
+            "section_padding_top_xs": 40,
+            "section_padding_bottom_xs": 80
+          }
+        },
+        "6de0d7b4-a365-48cb-94df-24a033c05cdd": {
+          "type": "promoton-content",
+          "settings": {
+            "content_product_column_handle": "6",
+            "content_custom_color": true,
+            "t1": "Special Offers",
+            "bottom_title": "work_sans_n4",
+            "bottom_title_font_size": "24",
+            "bottom_title_font_line_height": "40",
+            "bottom_title_font_size_md": "24",
+            "bottom_title_font_line_height_md": "40",
+            "bottom_title_font_size_sm": "22",
+            "bottom_title_font_line_height_sm": "38",
+            "t1_color": "#676767",
+            "bottom_title_margin": 20,
+            "t2": "50% off now! Don't miss such a deal!",
+            "top_title": "poppins_n5",
+            "top_title_font_size": "50",
+            "top_title_font_line_height": "65",
+            "top_title_font_size_md": "50",
+            "top_title_font_line_height_md": "55",
+            "top_title_font_size_sm": "30",
+            "top_title_font_line_height_sm": "40",
+            "t2_color": "#f78263",
+            "top_title_margin": 20,
+            "heading_bottom_border_line": false,
+            "heading_border_bottom_color": "#f78263",
+            "border_top_spacing": 10,
+            "des_text": "You will learn how to animate shapes like circles, lines, and polygons. You'll also learn how to animate CSS properties like color and size.",
+            "des_text_font": "work_sans_n4",
+            "des_text_color": "#111111",
+            "des_text_font_size": "16",
+            "des_text_font_line_height": "28",
+            "des_text_font_size_md": "16",
+            "des_text_font_line_height_md": "26",
+            "des_text_font_size_sm": "14",
+            "des_text_font_line_height_sm": "24",
+            "des_text_font_margin": 20,
+            "countdown_date": "2024\/08\/12",
+            "count_border_disable": true,
+            "border_radius_count": 50,
+            "btn1": "Explore More",
+            "btn1_url": "shopify:\/\/products\/10-this-is-the-large-title-for-testing-large-title-and-there-is-an-image-for-testing",
+            "button_title": "work_sans_n5",
+            "button_title_font_size": "16",
+            "button_title_margin": 20,
+            "button_style": "banner_style_2",
+            "button_border_radius": 50,
+            "button_padding_tb": 15,
+            "button_padding_lr": 30,
+            "btn1_color": "#333333",
+            "btn1_hover_color": "#ffffff",
+            "btn1_bg_color": "rgba(0,0,0,0)",
+            "btn1_bg_hover_color": "#f6ab4b",
+            "btn1_border_color": "#333333",
+            "btn1_border_hover_color": "#f6ab4b"
+          }
+        },
+        "b4252a75-52fb-4b62-9a10-8f5c32bc4016": {
+          "type": "promoton-img",
+          "settings": {
+            "promotion_img_enable": true,
+            "img_product_column_handle": "6",
+            "img1": "shopify:\/\/shop_images\/best_item_1_d93418d0-542f-4c46-9e30-5391c2e042d6.png",
+            "video_btn_enable": false,
+            "video_btn_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "b39e5d18-2c68-4301-a42a-1c72d3f912d5": {
+          "type": "section_background",
+          "settings": {
+            "section_bg_image": "shopify:\/\/shop_images\/bg1.jpg",
+            "section_bg_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "16346434438d9576a7-0",
+        "6de0d7b4-a365-48cb-94df-24a033c05cdd",
+        "b4252a75-52fb-4b62-9a10-8f5c32bc4016",
+        "b39e5d18-2c68-4301-a42a-1c72d3f912d5"
+      ],
+      "settings": {
+        "section_width": "default",
+        "section_title_custom_color": true,
+        "section_title": "",
+        "section_title_color": "#1f2226",
+        "section_title_font": "poppins_n6",
+        "section_title_font_size": "30",
+        "section_title_line_height": 40,
+        "section_title_font_size_md": "24",
+        "section_title_line_height_md": 35,
+        "section_title_font_size_sm": "20",
+        "section_title_line_height_sm": 30,
+        "section_title_margin_bottom": 10,
+        "section_sub_title": "",
+        "section_subtitle_color": "#5a5a5a",
+        "section_sub_title_font": "poppins_n6",
+        "section_des_font_size": "14",
+        "section_sub_title_line_height": 24,
+        "section_des_font_size_md": "14",
+        "section_sub_title_line_height_md": 24,
+        "section_des_font_size_sm": "14",
+        "section_sub_title_line_height_sm": 24,
+        "section_sub_title_margin_bottom": 10,
+        "title_align": "text-center",
+        "content_position": "flex-row-reverse",
+        "content_align": "text-left"
+      }
+    },
+    "1635661357a4cb0582": {
+      "type": "tab-with-product",
+      "blocks": {
+        "1635661357a4cb0582-2": {
+          "type": "tab_with_product",
+          "settings": {
+            "tab_product_handle": "new-collections"
+          }
+        },
+        "1635661357a4cb0582-0": {
+          "type": "tab_with_product",
+          "settings": {
+            "tab_product_handle": "best-selling"
+          }
+        },
+        "1635661357a4cb0582-1": {
+          "type": "tab_with_product",
+          "settings": {
+            "tab_product_handle": "hot-sale"
+          }
+        },
+        "1635661357a4cb0582-3": {
+          "type": "section_padding",
+          "settings": {
+            "section_padding_top": 100,
+            "section_padding_bottom": 70,
+            "section_padding_top_md": 80,
+            "section_padding_bottom_md": 60,
+            "section_padding_top_xs": 60,
+            "section_padding_bottom_xs": 40
+          }
+        }
+      },
+      "block_order": [
+        "1635661357a4cb0582-2",
+        "1635661357a4cb0582-0",
+        "1635661357a4cb0582-1",
+        "1635661357a4cb0582-3"
+      ],
+      "settings": {
+        "section_width": "box_width",
+        "section_title_custom_color": true,
+        "section_title": "Popular Collections",
+        "section_title_color": "#333333",
+        "section_title_font": "poppins_n5",
+        "section_title_font_size": "40",
+        "section_title_line_height": 50,
+        "section_title_font_size_md": "30",
+        "section_title_line_height_md": 45,
+        "section_title_font_size_sm": "24",
+        "section_title_line_height_sm": 40,
+        "section_title_margin_bottom": 15,
+        "section_sub_title": "Contrary to popular belief, Lorem Ipsum is not simply random text.",
+        "section_subtitle_color": "#5a5a5a",
+        "section_sub_title_font": "work_sans_n4",
+        "section_des_font_size": "18",
+        "section_sub_title_line_height": 30,
+        "section_des_font_size_md": "16",
+        "section_sub_title_line_height_md": 28,
+        "section_des_font_size_sm": "14",
+        "section_sub_title_line_height_sm": 24,
+        "section_sub_title_margin_bottom": 10,
+        "title_align": "text-center",
+        "show_tab_banner": false,
+        "banner_column_handle": 3,
+        "banner_position": "banner_right",
+        "featured_banner_url": "shopify:\/\/collections\/all",
+        "tab_column_handle": 12,
+        "product_limit_handle": 20,
+        "tab_arsoule_active": true,
+        "tab_arsoule_arrow_enable": true,
+        "product_casoule_row": 1,
+        "product_column_handle": "6",
+        "product_column_handle_md": "4",
+        "product_column_handle_sm": "3",
+        "product_column_handle_sm_2": "2",
+        "product_column_handle_xs": "2",
+        "tab_title_position": "position_center",
+        "tab_name_font_size": "18",
+        "tab_title_color": "#1f2226",
+        "tab_title_bg_color": "#f1f1f1",
+        "tab_title_active_color": "#ffffff",
+        "tab_title_active_bg_color": "#f78263",
+        "tab_border_radius": 50
+      }
+    },
+    "16636154447935aee7": {
+      "type": "banner-small-product-collection",
+      "blocks": {
+        "16636154447f308916-1": {
+          "type": "collection",
+          "settings": {
+            "collection_title": "Hot Sale",
+            "featured_product_handle": "hot-sale",
+            "featured_product_limit_handle": 8,
+            "collection_column": 3,
+            "collection_column_md": 6,
+            "collection_column_sm": 6
+          }
+        },
+        "16636154447f308916-2": {
+          "type": "collection",
+          "settings": {
+            "collection_title": "New Collection",
+            "featured_product_handle": "new-collections",
+            "featured_product_limit_handle": 8,
+            "collection_column": 3,
+            "collection_column_md": 6,
+            "collection_column_sm": 6
+          }
+        },
+        "fb4cb66e-e10d-4224-866c-8f1ff37ba595": {
+          "type": "collection",
+          "settings": {
+            "collection_title": "Best Selling",
+            "featured_product_handle": "best-selling",
+            "featured_product_limit_handle": 8,
+            "collection_column": 3,
+            "collection_column_md": 6,
+            "collection_column_sm": 6
+          }
+        },
+        "16636154447f308916-0": {
+          "type": "banner",
+          "settings": {
+            "banner_image": "shopify:\/\/shop_images\/product_banner_3.png",
+            "banner_sub_title": "",
+            "banner_title": "",
+            "banner_button_title": "",
+            "banner_url": "",
+            "banner_column": 3,
+            "banner_column_md": 6,
+            "banner_column_sm": 6,
+            "banner_text_color_enable": false,
+            "sub_title_color": "#777777",
+            "title_color": "#222222",
+            "button_color": "#222222",
+            "button_hover_color": "#c29958"
+          }
+        },
+        "16636154447f308916-3": {
+          "type": "section_padding",
+          "settings": {
+            "section_padding_top": 0,
+            "section_padding_bottom": 80,
+            "section_padding_top_md": 0,
+            "section_padding_bottom_md": 80,
+            "section_padding_top_xs": 0,
+            "section_padding_bottom_xs": 60
+          }
+        }
+      },
+      "block_order": [
+        "16636154447f308916-1",
+        "16636154447f308916-2",
+        "fb4cb66e-e10d-4224-866c-8f1ff37ba595",
+        "16636154447f308916-0",
+        "16636154447f308916-3"
+      ],
+      "settings": {
+        "section_width": "box_width",
+        "tab_arsoule_arrow_enable": true,
+        "product_casoule_row": 3
+      }
+    },
+    "1658730469df861974": {
+      "type": "testimonial",
+      "blocks": {
+        "1658730469dce39121-0": {
+          "type": "testimonial",
+          "settings": {
+            "commentators_img": "shopify:\/\/shop_images\/2.jpg",
+            "comments": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod tempor.",
+            "commentators": "Hester Perkins"
+          }
+        },
+        "1658730469dce39121-1": {
+          "type": "testimonial",
+          "settings": {
+            "commentators_img": "shopify:\/\/shop_images\/1.jpg",
+            "comments": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod blange.",
+            "commentators": "Hester Perkins"
+          }
+        },
+        "1658730469dce39121-2": {
+          "type": "section_padding",
+          "settings": {
+            "section_padding_top": 120,
+            "section_padding_bottom": 130,
+            "section_padding_top_md": 100,
+            "section_padding_bottom_md": 110,
+            "section_padding_top_xs": 80,
+            "section_padding_bottom_xs": 70
+          }
+        },
+        "5fa7707c-a9b0-4a1a-85f6-cd4134eb86d6": {
+          "type": "section_background",
+          "settings": {
+            "section_bg_image": "shopify:\/\/shop_images\/testi_bg.jpg",
+            "section_bg_color": "#ffffff"
+          }
+        },
+        "d449c1dc-e95f-4e8d-aeba-8bc06b0243e5": {
+          "type": "testimonial",
+          "settings": {
+            "commentators_img": "shopify:\/\/shop_images\/3_239f970f-67f2-4b1c-9e32-49d9715eb86d.jpg",
+            "comments": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.",
+            "commentators": "Hester Perkins"
+          }
+        },
+        "9bd2d231-d0b2-40c9-9779-aad499364dc3": {
+          "type": "testimonial",
+          "settings": {
+            "commentators_img": "shopify:\/\/shop_images\/4_c1bf1c54-38f7-4c84-befb-17a1958e01aa.jpg",
+            "comments": "Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod.",
+            "commentators": "Hester Perkins"
+          }
+        },
+        "9593ae68-ceb1-46f1-80c9-ed6c6620d3bc": {
+          "type": "testimonial",
+          "settings": {
+            "commentators_img": "shopify:\/\/shop_images\/1.jpg",
+            "comments": "Torem ipsum dolor sit amet, consec tetur adipisicing elit, sed do eiusmod.",
+            "commentators": "Hester Perkins"
+          }
+        },
+        "ad71a165-e366-4444-a5ed-330907a7c9bf": {
+          "type": "testimonial",
+          "settings": {
+            "commentators_img": "shopify:\/\/shop_images\/2.jpg",
+            "comments": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.",
+            "commentators": "Hester Perkins"
+          }
+        }
+      },
+      "block_order": [
+        "1658730469dce39121-0",
+        "1658730469dce39121-1",
+        "1658730469dce39121-2",
+        "5fa7707c-a9b0-4a1a-85f6-cd4134eb86d6",
+        "d449c1dc-e95f-4e8d-aeba-8bc06b0243e5",
+        "9bd2d231-d0b2-40c9-9779-aad499364dc3",
+        "9593ae68-ceb1-46f1-80c9-ed6c6620d3bc",
+        "ad71a165-e366-4444-a5ed-330907a7c9bf"
+      ],
+      "settings": {
+        "section_width": "box_width",
+        "testi_col_content": "10",
+        "nav_style": "style_1",
+        "nav_custom_style": true,
+        "nav_border_radius": 30,
+        "controlnav_color": "#1f2226",
+        "controlnav_bg_color": "#ffffff",
+        "controlnav_border_color": "#e1e2e2",
+        "hover_controlnav_color": "#ffffff",
+        "hover_controlnav_bg_color": "#f78263",
+        "hover_controlnav_border_color": "#f78263",
+        "dot_style": "dot_hide",
+        "dot_custom_style": true,
+        "dot_color": "#ffffff",
+        "dot_active_color": "#ffffff",
+        "testi_col": "4",
+        "testi_col_md": "2",
+        "testi_col_sm": "1",
+        "section_title_custom_color": false,
+        "section_title": "What Client Says",
+        "section_title_color": "#333333",
+        "section_title_font": "poppins_n5",
+        "section_title_font_size": "40",
+        "section_title_line_height": 50,
+        "section_title_font_size_md": "24",
+        "section_title_line_height_md": 35,
+        "section_title_font_size_sm": "20",
+        "section_title_line_height_sm": 30,
+        "section_title_margin_bottom": 10,
+        "section_sub_title": "Contrary to popular belief Lorem Ipsum.",
+        "section_subtitle_color": "#333333",
+        "section_sub_title_font": "work_sans_n4",
+        "section_des_font_size": "18",
+        "section_sub_title_line_height": 30,
+        "section_des_font_size_md": "14",
+        "section_sub_title_line_height_md": 24,
+        "section_des_font_size_sm": "14",
+        "section_sub_title_line_height_sm": 24,
+        "section_sub_title_margin_bottom": 10,
+        "title_align": "text-center",
+        "comment_color": "#333333",
+        "commentators_color": "#333333"
+      }
+    },
+    "16335890543c7ff7c6": {
+      "type": "latest-blog",
+      "blocks": {
+        "16335890543c7ff7c6-0": {
+          "type": "section_padding",
+          "settings": {
+            "section_padding_top": 80,
+            "section_padding_bottom": 60,
+            "section_padding_top_md": 70,
+            "section_padding_bottom_md": 50,
+            "section_padding_top_xs": 60,
+            "section_padding_bottom_xs": 50
+          }
+        }
+      },
+      "block_order": [
+        "16335890543c7ff7c6-0"
+      ],
+      "settings": {
+        "section_width": "box_width",
+        "section_title_custom_color": true,
+        "section_title": "Latest Blog",
+        "section_title_color": "#333333",
+        "section_title_font": "poppins_n5",
+        "section_title_font_size": "40",
+        "section_title_line_height": 50,
+        "section_title_font_size_md": "30",
+        "section_title_line_height_md": 45,
+        "section_title_font_size_sm": "24",
+        "section_title_line_height_sm": 40,
+        "section_title_margin_bottom": 15,
+        "section_sub_title": "Contrary to popular belief, Lorem Ipsum is not simply random.",
+        "section_subtitle_color": "#333333",
+        "section_sub_title_font": "work_sans_n4",
+        "section_des_font_size": "18",
+        "section_sub_title_line_height": 30,
+        "section_des_font_size_md": "16",
+        "section_sub_title_line_height_md": 28,
+        "section_des_font_size_sm": "14",
+        "section_sub_title_line_height_sm": 24,
+        "section_sub_title_margin_bottom": 10,
+        "title_align": "text-center",
+        "blog_handle": "news",
+        "button_title": "Read More...",
+        "bgrid": "grid_1",
+        "blog_limit_handle": 20,
+        "content_align": "center",
+        "tab_arsoule_active": true,
+        "tab_arsoule_arrow_enable": false,
+        "product_column_handle": "4",
+        "product_column_handle_md": "2",
+        "product_column_handle_sm": "2",
+        "blog_image_enable": true,
+        "blog_title_enable": true,
+        "blog_comments_enable": true,
+        "blog_date_enable": true,
+        "blog_text_enable": true,
+        "blog_button_enable": true
+      }
+    }
+  },
+  "order": [
+    "1633582665d480efa2",
+    "1645604654016f2c1d",
+    "1658729060b4b7441f",
+    "1645959322bded8804",
+    "16346434438d9576a7",
+    "1635661357a4cb0582",
+    "16636154447935aee7",
+    "1658730469df861974",
+    "16335890543c7ff7c6"
+  ]
+}
